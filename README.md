@@ -7,3 +7,5 @@ gochiusa-railway
 $ make
 $ ./gochiusa
 ```
+
+http://blog.kokuyouwind.com/archives/726
